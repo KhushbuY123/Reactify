@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "This is Learning",
   "scripts": {
-    "test": "jest"
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test":"jest"
   },
-  "keywords": [
-    "react",
-    "khushbu"
-  ],
   "author": "Khushbu",
   "license": "ISC",
   "devDependencies": {
