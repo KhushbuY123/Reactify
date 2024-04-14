@@ -20,4 +20,28 @@
 -Different dev and prod bundles
 
 
-# new
+# Two type of Export/Import
+
+-Defualt Export/Import
+
+export defualt Component
+import Component from "path"
+
+-Named export/Import
+
+export const Component
+import {Component} from "path"
+
+
+# React Hooks 
+
+(Normal JS utility function , for states defining)
+
+-UseState :(Used to create state variable,maintain the state of the function)
+
+-UseEffect:(To Re-Render the things)
+
+# How React Works
+- Reconciliation / React Fibre
+to update react virtual dom
+
